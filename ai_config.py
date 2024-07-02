@@ -1,0 +1,21 @@
+custom_spelling = [
+	{"to": "Ariston", "from": ["Arison"]},
+	{"to": "Azouz", "from": ["Azzuz", "Zouz"]},
+	{"to": "Breuil", "from": ["l'Ebrel"]},
+	{"to": "Cecchettin", "from": ["Cecchettine"]} ,
+	{"to": "dalTG1", "from": ["dalti G1"]} ,
+	{"to": "disforia", "from": ["dispoia"]} ,
+	{"to": "Lollobrigida", "from": ["Lollo Brigida"]} ,
+	{"to": "Marsilio", "from": ["Marcillio", "Marzilio"]},
+	{"to": "mastectomia", "from": ["mastettomia"]} ,
+	{"to": "MES", "from": ["messe"]} ,
+	{"to": "Netanyahu", "from": ["Taniaw"]} ,
+	{"to": "Osimhen", "from": ["Osimène"]} ,
+	{"to": "Quirinale", "from": ["Querinale"]} ,
+	{"to": "sciopero", "from": ["sopero"]} ,
+	{"to": "Schlein", "from": ["Shlain"]} ,
+	{"to": "TG1", "from": ["Tijuno"]} ,
+	{"to": "Triggiano", "from": ["Trigiano"]} ,
+	{"to": "Turetta", "from": ["Turette"]} ,
+	{"to": "unanime", "from": ["un'anime"]}
+]
