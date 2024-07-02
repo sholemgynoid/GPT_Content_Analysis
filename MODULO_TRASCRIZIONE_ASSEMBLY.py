@@ -109,7 +109,7 @@ mode = args.mode
 lang_code = args.languageCode
 
 #Inserisco la API Key dell'Osservatorio di Pavia
-api_key: str = "0704da77e4464085933b09e8b364a865"
+api_key: str = "XXxXXXXXXXXXXXXXXXXXXXXXXXX"
 
 #Inserisco la DataCares = 0 per le operazioni di trasformazione tra DataCares e data in formato gg-mm-aaaa
 date_1 = datetime.datetime(1995, 2, 28)
